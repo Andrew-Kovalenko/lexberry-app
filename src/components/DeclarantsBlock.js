@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
-import {useSelector} from 'react-redux'
 import {FormControlLabel, Checkbox, Container, Typography, Box} from '@material-ui/core';
 import AddIcon from '@material-ui/icons/Add';
 import Button from '@material-ui/core/Button';
+import {useSelector} from 'react-redux'
 
 import NewDeclartant from './NewDeclartant'
 import {useStyles} from './Styles';

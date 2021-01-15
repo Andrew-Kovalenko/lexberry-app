@@ -1,11 +1,11 @@
 import React from 'react';
-import {getClients, setCurrentClient, getDeclarants} from '../redux/actions';
-import {FETCH_ClIENTS, FETCH_DECLARANTS} from '../redux/types'
-import {useDispatch, useSelector} from 'react-redux'
 import {TextField, Container, Typography, Box} from '@material-ui/core';
 import Button from '@material-ui/core/Button';
 import Autocomplete from '@material-ui/lab/Autocomplete';
+import {useDispatch, useSelector} from 'react-redux'
+import {FETCH_ClIENTS, FETCH_DECLARANTS} from '../redux/types'
 
+import {getClients, setCurrentClient, getDeclarants} from '../redux/actions';
 import {useStyles} from './Styles';
 import {showData} from './showData'
 

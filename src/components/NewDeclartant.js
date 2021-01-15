@@ -2,8 +2,8 @@ import {Container, Box, TextField, FormControl, FormLabel, RadioGroup, FormContr
 import React, {useState} from 'react';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import {useStyles} from './Styles';
+import {useDispatch} from 'react-redux'
 import {updateNewCurrentDeclarant, pushNewDeclarant, updateNewDeclarantsArray} from '../redux/actions'
-import {useDispatch, useSelector} from 'react-redux'
 
 export default function NewDeclartant({visibleForm, setVisibleForm}) {
   const classes = useStyles();
@@ -11,7 +11,6 @@ export default function NewDeclartant({visibleForm, setVisibleForm}) {
   const [country, setCountry] = useState(['Украина', 'Грузия', 'Казахстан']);
   const [currentCountry, setCurrentCountry] = useState();
   const [declarant, setDeclarant] = useState({
-    // id: ++declarants.length,
     businessEntity: '', 
     country: '', 
     name: '', 
