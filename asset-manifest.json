@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lexberry-app/static/css/main.c2a202f2.chunk.css",
+    "main.js": "/lexberry-app/static/js/main.18774ece.chunk.js",
+    "main.js.map": "/lexberry-app/static/js/main.18774ece.chunk.js.map",
+    "runtime-main.js": "/lexberry-app/static/js/runtime-main.5de906c2.js",
+    "runtime-main.js.map": "/lexberry-app/static/js/runtime-main.5de906c2.js.map",
+    "static/js/2.933c9520.chunk.js": "/lexberry-app/static/js/2.933c9520.chunk.js",
+    "static/js/2.933c9520.chunk.js.map": "/lexberry-app/static/js/2.933c9520.chunk.js.map",
+    "index.html": "/lexberry-app/index.html",
+    "static/css/main.c2a202f2.chunk.css.map": "/lexberry-app/static/css/main.c2a202f2.chunk.css.map",
+    "static/js/2.933c9520.chunk.js.LICENSE.txt": "/lexberry-app/static/js/2.933c9520.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5de906c2.js",
+    "static/js/2.933c9520.chunk.js",
+    "static/css/main.c2a202f2.chunk.css",
+    "static/js/main.18774ece.chunk.js"
+  ]
+}
