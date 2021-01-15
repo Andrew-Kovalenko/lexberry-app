@@ -19,7 +19,7 @@ function* clientsWorker() {
 }
 
 async function fetchClients() {
-  const responce = await fetch('http://lexberry.com.ua/api/v1/clients', {
+  const responce = await fetch('https://lexberry.com.ua/api/v1/clients', {
     method: 'GET',
     headers: {
 			'Authorization': data.token_type + ' ' + data.access_token,
@@ -38,7 +38,7 @@ function* declarantsWorker() {
 }
 
 async function fetchDeclarants() {
-  const responce = await fetch(` http://lexberry.com.ua/api/v1/applicants?filter[client:id]=${currentClient.id}`, {
+  const responce = await fetch(` https://lexberry.com.ua/api/v1/applicants?filter[client:id]=${currentClient.id}`, {
     method: 'GET',
     headers: {
 			'Authorization': data.token_type + ' ' + data.access_token,
