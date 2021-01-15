@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/lexberry-app/static/css/main.b3b89fc1.chunk.css",
-    "main.js": "/lexberry-app/static/js/main.a3d6612d.chunk.js",
-    "main.js.map": "/lexberry-app/static/js/main.a3d6612d.chunk.js.map",
-    "runtime-main.js": "/lexberry-app/static/js/runtime-main.cf7aaa78.js",
-    "runtime-main.js.map": "/lexberry-app/static/js/runtime-main.cf7aaa78.js.map",
-    "static/js/2.59c66f00.chunk.js": "/lexberry-app/static/js/2.59c66f00.chunk.js",
-    "static/js/2.59c66f00.chunk.js.map": "/lexberry-app/static/js/2.59c66f00.chunk.js.map",
-    "static/js/3.96671cb2.chunk.js": "/lexberry-app/static/js/3.96671cb2.chunk.js",
-    "static/js/3.96671cb2.chunk.js.map": "/lexberry-app/static/js/3.96671cb2.chunk.js.map",
+    "main.js": "/lexberry-app/static/js/main.fca48de6.chunk.js",
+    "main.js.map": "/lexberry-app/static/js/main.fca48de6.chunk.js.map",
+    "runtime-main.js": "/lexberry-app/static/js/runtime-main.08146330.js",
+    "runtime-main.js.map": "/lexberry-app/static/js/runtime-main.08146330.js.map",
+    "static/js/2.38e703d9.chunk.js": "/lexberry-app/static/js/2.38e703d9.chunk.js",
+    "static/js/2.38e703d9.chunk.js.map": "/lexberry-app/static/js/2.38e703d9.chunk.js.map",
     "index.html": "/lexberry-app/index.html",
     "static/css/main.b3b89fc1.chunk.css.map": "/lexberry-app/static/css/main.b3b89fc1.chunk.css.map",
-    "static/js/2.59c66f00.chunk.js.LICENSE.txt": "/lexberry-app/static/js/2.59c66f00.chunk.js.LICENSE.txt"
+    "static/js/2.38e703d9.chunk.js.LICENSE.txt": "/lexberry-app/static/js/2.38e703d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf7aaa78.js",
-    "static/js/2.59c66f00.chunk.js",
+    "static/js/runtime-main.08146330.js",
+    "static/js/2.38e703d9.chunk.js",
     "static/css/main.b3b89fc1.chunk.css",
-    "static/js/main.a3d6612d.chunk.js"
+    "static/js/main.fca48de6.chunk.js"
   ]
 }
